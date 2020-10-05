@@ -3,7 +3,8 @@
 */
 
 const config = {
-
+    //编辑高度
+    height:'300px',
     // 默认菜单配置
     menus: [
         'head',
